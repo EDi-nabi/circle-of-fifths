@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2481 3508" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="BW" x="0" y="0" width="2480.32" height="3507.87" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect id="BW1" serif:id="BW" x="0" y="0" width="2480.32" height="3507.87"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="Bck" transform="matrix(3.13171,0,0,4.42913,-6.82121e-13,0)">
+            <rect x="0" y="0" width="792" height="792" style="fill:white;"/>
+        </g>
+        <g id="FatCat" transform="matrix(2.16572,0,0,2.16572,1125.09,1775.68)">
+            <g transform="matrix(0.096,0,0,0.160619,30.2812,719.514)">
+                <rect x="0" y="0" width="500" height="500" style="fill-opacity:0.15;fill-rule:nonzero;"/>
+            </g>
+            <g id="white-claws" serif:id="white claws" transform="matrix(0.096,0,0,0.096,28.8412,734.78)">
+                <g id="cat" transform="matrix(1,0,0,1,15,44)">
+                    <path d="M371.125,330L128.875,330L181.331,140L250,206.5L318.669,140L371.125,330Z"/>
+                </g>
+                <g id="claws">
+                    <g transform="matrix(1,0,0,1,-25,0)">
+                        <rect x="217" y="348" width="8" height="26" style="fill:white;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-11,0)">
+                        <rect x="217" y="348" width="8" height="26" style="fill:white;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,3,0)">
+                        <rect x="217" y="348" width="8" height="26" style="fill:white;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,85,0)">
+                        <rect x="217" y="348" width="8" height="26" style="fill:white;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,99,0)">
+                        <rect x="217" y="348" width="8" height="26" style="fill:white;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,113,0)">
+                        <rect x="217" y="348" width="8" height="26" style="fill:white;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="Circle-of-Fifths" serif:id="Circle of Fifths" transform="matrix(2.89167,0,0,2.84654,120.505,617.808)">
+            <g id="outer-circle" serif:id="outer circle" transform="matrix(3.44364,0,0,3.49824,-958.239,-952.176)">
+                <circle cx="390.502" cy="386.281" r="109.719" style="fill:white;stroke:black;stroke-width:1.76px;"/>
+            </g>
+            <g id="major-circle" serif:id="major circle" transform="matrix(2.90263,0,0,2.94865,-746.972,-739.88)">
+                <circle cx="390.502" cy="386.281" r="109.719" style="fill:white;stroke:black;stroke-width:2.04px;"/>
+            </g>
+            <g id="minor-circle" serif:id="minor circle" transform="matrix(1.95567,0,0,1.98668,-377.186,-368.291)">
+                <circle cx="390.502" cy="386.281" r="109.719" style="fill:white;stroke:black;stroke-width:3.04px;"/>
+            </g>
+            <g id="lines">
+                <g transform="matrix(1.00872,-0.00259007,0.00254965,1.02471,-11.0466,5.58897)">
+                    <path d="M89,305L694,467" style="fill:none;stroke:black;stroke-width:6px;"/>
+                </g>
+                <g transform="matrix(0.874372,0.510957,-0.502982,0.888234,236.685,-142.785)">
+                    <path d="M89,305L694,467" style="fill:none;stroke:black;stroke-width:6px;"/>
+                </g>
+                <g transform="matrix(0.504907,0.887107,-0.873261,0.512912,524.258,-145.173)">
+                    <path d="M89,305L694,467" style="fill:none;stroke:black;stroke-width:6px;"/>
+                </g>
+                <g transform="matrix(-0.000327584,1.02471,-1.00872,-0.000332778,774.345,-0.933753)">
+                    <path d="M89,305L694,467" style="fill:none;stroke:black;stroke-width:6px;"/>
+                </g>
+                <g transform="matrix(-0.505474,0.886773,-0.872933,-0.513488,919.696,251.148)">
+                    <path d="M89,305L694,467" style="fill:none;stroke:black;stroke-width:6px;"/>
+                </g>
+                <g transform="matrix(-0.874698,0.51038,-0.502414,-0.888566,921.226,543.286)">
+                    <path d="M89,305L694,467" style="fill:none;stroke:black;stroke-width:6px;"/>
+                </g>
+            </g>
+            <g id="center-circle" serif:id="center circle" transform="matrix(0.944367,0,0,0.95934,17.7313,28.552)">
+                <circle cx="390.502" cy="386.281" r="109.719" style="fill:white;stroke:black;stroke-width:6px;"/>
+            </g>
+            <g id="notes-major" serif:id="notes major">
+                <g>
+                    <g transform="matrix(0.978054,0,0,0.99356,4.56939,6.87184)">
+                        <g transform="matrix(40,0,0,40,405.708,126.22)">
+                        </g>
+                        <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:40px;stroke:black;stroke-width:0.35px;stroke-linecap:butt;stroke-miterlimit:2;">C</text>
+                    </g>
+                    <g transform="matrix(0.978054,0,0,0.99356,137.589,58.537)">
+                        <g transform="matrix(40,0,0,40,407.668,126.22)">
+                        </g>
+                        <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:40px;stroke:black;stroke-width:0.35px;stroke-linecap:butt;stroke-miterlimit:2;">G</text>
+                    </g>
+                    <g transform="matrix(0.978054,0,0,0.99356,230.341,154.036)">
+                        <g transform="matrix(40,0,0,40,408.428,126.22)">
+                        </g>
+                        <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:40px;stroke:black;stroke-width:0.35px;stroke-linecap:butt;stroke-miterlimit:2;">D</text>
+                    </g>
+                    <g transform="matrix(0.978054,0,0,0.99356,272.646,287.337)">
+                        <g transform="matrix(40,0,0,40,405.508,126.22)">
+                        </g>
+                        <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:40px;stroke:black;stroke-width:0.35px;stroke-linecap:butt;stroke-miterlimit:2;">A</text>
+                    </g>
+                    <g transform="matrix(0.978054,0,0,0.99356,233.852,428.75)">
+                        <g transform="matrix(40,0,0,40,401.548,126.22)">
+                        </g>
+                        <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:40px;stroke:black;stroke-width:0.35px;stroke-linecap:butt;stroke-miterlimit:2;">E</text>
+                    </g>
+                    <g transform="matrix(0.978054,0,0,0.99356,110.945,522.634)">
+                        <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:40px;stroke:black;stroke-width:0.35px;stroke-linecap:butt;stroke-miterlimit:2;">B/<tspan x="418.068px " y="126.22px ">C</tspan></text>
+                        <text x="437.468px" y="126.22px" style="font-family:'HiraginoSans-W4', 'Hiragino Sans', sans-serif;font-size:28px;stroke:black;stroke-width:0.35px;stroke-linecap:butt;stroke-miterlimit:2;">♭</text>
+                    </g>
+                    <g transform="matrix(0.978054,0,0,0.99356,-26.9604,560.056)">
+                        <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:40px;stroke:black;stroke-width:0.35px;stroke-linecap:butt;stroke-miterlimit:2;">F</text>
+                        <text x="400.948px" y="117.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:28px;stroke:black;stroke-width:0.35px;stroke-linecap:butt;stroke-miterlimit:2;">#</text>
+                        <text x="417.188px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:40px;stroke:black;stroke-width:0.35px;stroke-linecap:butt;stroke-miterlimit:2;">/<tspan x="431.068px " y="126.22px ">G</tspan></text>
+                        <text x="452.428px" y="126.22px" style="font-family:'HiraginoSans-W4', 'Hiragino Sans', sans-serif;font-size:28px;stroke:black;stroke-width:0.35px;stroke-linecap:butt;stroke-miterlimit:2;">♭</text>
+                    </g>
+                    <g transform="matrix(0.978054,0,0,0.99356,-161.932,522.634)">
+                        <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:40px;stroke:black;stroke-width:0.35px;stroke-linecap:butt;stroke-miterlimit:2;">D</text>
+                        <text x="400.428px" y="126.22px" style="font-family:'HiraginoSans-W4', 'Hiragino Sans', sans-serif;font-size:28px;stroke:black;stroke-width:0.35px;stroke-linecap:butt;stroke-miterlimit:2;">♭</text>
+                        <text x="421.428px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:40px;stroke:black;stroke-width:0.35px;stroke-linecap:butt;stroke-miterlimit:2;">/<tspan x="435.308px " y="126.22px ">C</tspan></text>
+                        <g transform="matrix(28,0,0,28,478.948,117.22)">
+                        </g>
+                        <text x="462.708px" y="117.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:28px;stroke:black;stroke-width:0.35px;stroke-linecap:butt;stroke-miterlimit:2;">#</text>
+                    </g>
+                    <g transform="matrix(0.978054,0,0,0.99356,-232.474,427.749)">
+                        <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:40px;stroke:black;stroke-width:0.35px;stroke-linecap:butt;stroke-miterlimit:2;">A</text>
+                        <text x="399.108px" y="126.22px" style="font-family:'HiraginoSans-W4', 'Hiragino Sans', sans-serif;font-size:28px;stroke:black;stroke-width:0.35px;stroke-linecap:butt;stroke-miterlimit:2;">♭</text>
+                    </g>
+                    <g transform="matrix(0.978054,0,0,0.99356,-269.84,286.336)">
+                        <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:40px;stroke:black;stroke-width:0.35px;stroke-linecap:butt;stroke-miterlimit:2;">E</text>
+                        <text x="393.548px" y="126.22px" style="font-family:'HiraginoSans-W4', 'Hiragino Sans', sans-serif;font-size:28px;stroke:black;stroke-width:0.35px;stroke-linecap:butt;stroke-miterlimit:2;">♭</text>
+                    </g>
+                    <g transform="matrix(0.978054,0,0,0.99356,-232.65,153.035)">
+                        <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:40px;stroke:black;stroke-width:0.35px;stroke-linecap:butt;stroke-miterlimit:2;">B</text>
+                        <text x="396.188px" y="126.22px" style="font-family:'HiraginoSans-W4', 'Hiragino Sans', sans-serif;font-size:28px;stroke:black;stroke-width:0.35px;stroke-linecap:butt;stroke-miterlimit:2;">♭</text>
+                    </g>
+                    <g transform="matrix(0.978054,0,0,0.99356,-123.431,58.537)">
+                        <g transform="matrix(40,0,0,40,400.948,126.22)">
+                        </g>
+                        <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:40px;stroke:black;stroke-width:0.35px;stroke-linecap:butt;stroke-miterlimit:2;">F</text>
+                    </g>
+                    <g transform="matrix(1.00872,0,0,1.02472,-9.97806,7.72447)">
+                        <g transform="matrix(23,0,0,23,427.153,155.141)">
+                        </g>
+                        <text x="366.433px" y="155.141px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:23px;stroke:black;stroke-width:0.34px;stroke-linecap:butt;stroke-miterlimit:2;">Major</text>
+                    </g>
+                </g>
+            </g>
+            <g id="notes-minor" serif:id="notes minor" transform="matrix(0.856738,0,0,0.856738,55.7251,56.5711)">
+                <g transform="matrix(1.00872,0,0,1.02472,-3.10863,99.4419)">
+                    <g transform="matrix(38,0,0,38,397.574,126.22)">
+                    </g>
+                    <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">a</text>
+                </g>
+                <g transform="matrix(1.00872,0,0,1.02472,87.3199,118.394)">
+                    <g transform="matrix(38,0,0,38,398.22,126.22)">
+                    </g>
+                    <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">e</text>
+                </g>
+                <g transform="matrix(1.00872,0,0,1.02472,157.352,190.803)">
+                    <g transform="matrix(38,0,0,38,399.55,126.22)">
+                    </g>
+                    <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">b</text>
+                </g>
+                <g transform="matrix(1.00872,0,0,1.02472,176.518,284.472)">
+                    <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">f</text>
+                    <g transform="matrix(28,0,0,28,407.354,117.22)">
+                    </g>
+                    <text x="391.114px" y="117.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:28px;">#</text>
+                </g>
+                <g transform="matrix(1.00872,0,0,1.02472,151.3,374.436)">
+                    <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">c</text>
+                    <g transform="matrix(28,0,0,28,412.294,117.22)">
+                    </g>
+                    <text x="396.054px" y="117.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:28px;">#</text>
+                </g>
+                <g transform="matrix(1.00872,0,0,1.02472,63.3997,446.739)">
+                    <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">g</text>
+                    <text x="397.726px" y="117.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:28px;">#</text>
+                    <text x="411.166px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">/<tspan x="423.136px " y="126.22px ">a</tspan></text>
+                    <text x="434.422px" y="126.22px" style="font-family:'HiraginoSans-W4', 'Hiragino Sans', sans-serif;font-size:28px;">♭</text>
+                </g>
+                <g transform="matrix(1.00872,0,0,1.02472,-33.5811,486.922)">
+                    <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">d</text>
+                    <text x="399.55px" y="117.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:28px;">#</text>
+                    <text x="411.59px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">/<tspan x="423.56px " y="126.22px ">e</tspan></text>
+                    <text x="435.492px" y="126.22px" style="font-family:'HiraginoSans-W4', 'Hiragino Sans', sans-serif;font-size:28px;">♭</text>
+                </g>
+                <g transform="matrix(1.00872,0,0,1.02472,-130.847,449.26)">
+                    <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">b</text>
+                    <text x="391.57px" y="126.22px" style="font-family:'HiraginoSans-W4', 'Hiragino Sans', sans-serif;font-size:28px;">♭</text>
+                    <text x="412.57px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">/<tspan x="421.5px " y="126.22px ">a</tspan></text>
+                    <g transform="matrix(28,0,0,28,455.106,117.22)">
+                    </g>
+                    <text x="438.866px" y="117.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:28px;">#</text>
+                </g>
+                <g transform="matrix(1.00872,0,0,1.02472,-166.038,374.581)">
+                    <g transform="matrix(40,0,0,40,391.788,126.22)">
+                    </g>
+                    <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:40px;">f</text>
+                </g>
+                <g transform="matrix(1.00872,0,0,1.02472,-191.801,279.983)">
+                    <g transform="matrix(40,0,0,40,396.988,126.22)">
+                    </g>
+                    <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:40px;">c</text>
+                </g>
+                <g transform="matrix(1.00872,0,0,1.02472,-169.609,183.414)">
+                    <g transform="matrix(40,0,0,40,398.748,126.22)">
+                    </g>
+                    <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:40px;">g</text>
+                </g>
+                <g transform="matrix(1.00872,0,0,1.02472,-100.982,122.717)">
+                    <g transform="matrix(38,0,0,38,399.55,126.22)">
+                    </g>
+                    <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">d</text>
+                </g>
+                <g transform="matrix(1.00872,0,0,1.02472,-12.3795,20.9543)">
+                    <g transform="matrix(23,0,0,23,426.049,155.141)">
+                    </g>
+                    <text x="366.433px" y="155.141px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:23px;">minor</text>
+                </g>
+            </g>
+            <g id="outer-numbers" serif:id="outer numbers">
+                <g transform="matrix(0.61923,0,0,0.629047,126.374,-27.6194)">
+                    <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">0</text>
+                    <text x="392.368px" y="126.22px" style="font-family:'HiraginoSans-W4', 'Hiragino Sans', sans-serif;font-size:28px;">♭</text>
+                    <text x="413.368px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">/0</text>
+                    <g transform="matrix(28,0,0,28,465.822,117.22)">
+                    </g>
+                    <text x="449.582px" y="117.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:28px;">#</text>
+                </g>
+                <g transform="matrix(0.61923,0,0,0.629047,326.203,26.2641)">
+                    <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">1</text>
+                    <g transform="matrix(28,0,0,28,416.588,117.22)">
+                    </g>
+                    <text x="400.348px" y="117.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:28px;">#</text>
+                </g>
+                <g transform="matrix(0.61923,0,0,0.629047,443.467,150.689)">
+                    <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">2</text>
+                    <g transform="matrix(28,0,0,28,416.588,117.22)">
+                    </g>
+                    <text x="400.348px" y="117.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:28px;">#</text>
+                </g>
+                <g transform="matrix(0.61923,0,0,0.629047,492.262,325.404)">
+                    <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">3</text>
+                    <g transform="matrix(28,0,0,28,416.588,117.22)">
+                    </g>
+                    <text x="400.348px" y="117.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:28px;">#</text>
+                </g>
+                <g transform="matrix(0.61923,0,0,0.629047,443.843,508.468)">
+                    <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">4</text>
+                    <g transform="matrix(28,0,0,28,416.588,117.22)">
+                    </g>
+                    <text x="400.348px" y="117.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:28px;">#</text>
+                </g>
+                <g transform="matrix(0.61923,0,0,0.629047,303.554,632.337)">
+                    <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">5</text>
+                    <text x="400.348px" y="117.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:28px;">#</text>
+                    <text x="413.788px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">/<tspan x="429.862px " y="126.22px ">7</tspan></text>
+                    <text x="443.922px" y="126.22px" style="font-family:'HiraginoSans-W4', 'Hiragino Sans', sans-serif;font-size:28px;">♭</text>
+                </g>
+                <g transform="matrix(0.61923,0,0,0.629047,126.279,685.661)">
+                    <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">6</text>
+                    <text x="400.348px" y="117.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:28px;">#</text>
+                    <text x="413.788px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">/<tspan x="429.862px " y="126.22px ">6</tspan></text>
+                    <text x="443.922px" y="126.22px" style="font-family:'HiraginoSans-W4', 'Hiragino Sans', sans-serif;font-size:28px;">♭</text>
+                </g>
+                <g transform="matrix(0.61923,0,0,0.629047,-52.5641,632.337)">
+                    <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">5</text>
+                    <text x="392.368px" y="126.22px" style="font-family:'HiraginoSans-W4', 'Hiragino Sans', sans-serif;font-size:28px;">♭</text>
+                    <text x="413.368px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">/<tspan x="429.442px " y="126.22px ">7</tspan></text>
+                    <g transform="matrix(28,0,0,28,467.722,117.22)">
+                    </g>
+                    <text x="451.482px" y="117.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:28px;">#</text>
+                </g>
+                <g transform="matrix(0.61923,0,0,0.629047,-157.899,507.257)">
+                    <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">4</text>
+                    <text x="392.368px" y="126.22px" style="font-family:'HiraginoSans-W4', 'Hiragino Sans', sans-serif;font-size:28px;">♭</text>
+                </g>
+                <g transform="matrix(0.61923,0,0,0.629047,-210.895,324.384)">
+                    <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">3</text>
+                    <text x="392.368px" y="126.22px" style="font-family:'HiraginoSans-W4', 'Hiragino Sans', sans-serif;font-size:28px;">♭</text>
+                </g>
+                <g transform="matrix(0.61923,0,0,0.629047,-162.349,149.574)">
+                    <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">2</text>
+                    <text x="392.368px" y="126.22px" style="font-family:'HiraginoSans-W4', 'Hiragino Sans', sans-serif;font-size:28px;">♭</text>
+                </g>
+                <g transform="matrix(0.61923,0,0,0.629047,-32.3059,25.0708)">
+                    <text x="378.308px" y="126.22px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:38px;">1</text>
+                    <text x="392.368px" y="126.22px" style="font-family:'HiraginoSans-W4', 'Hiragino Sans', sans-serif;font-size:28px;">♭</text>
+                </g>
+            </g>
+            <g id="Title" transform="matrix(0.716629,0,0,0.727991,80.2911,139.134)">
+                <text x="340.995px" y="348.328px" style="font-family:'Lato-BoldItalic', 'Lato', sans-serif;font-weight:700;font-style:italic;font-size:38px;">T<tspan x="363.719px 386.234px 406.108px 415.342px 440.175px 451.86px 466.813px 485.262px 496.643px " y="348.328px 348.328px 348.328px 348.328px 348.328px 348.328px 348.328px 348.328px 348.328px ">he Circle</tspan></text>
+                <g transform="matrix(38,0,0,38,500.044,389.328)">
+                </g>
+                <text x="355.568px" y="389.328px" style="font-family:'Lato-BoldItalic', 'Lato', sans-serif;font-weight:700;font-style:italic;font-size:38px;">o<tspan x="376.848px 390.832px 400.066px 421.574px 433.259px 447.243px 462.614px 485.129px " y="389.328px 389.328px 389.328px 389.328px 389.328px 389.328px 389.328px 389.328px ">f Fifths</tspan></text>
+            </g>
+        </g>
+    </g>
+</svg>
