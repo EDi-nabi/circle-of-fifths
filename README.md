@@ -8,7 +8,7 @@ Font used: Lato by Łukasz Dziedzic, free on Google Fonts.\
 PDF's with all and separate versions.\
 SVG with separate versions.\
 \
-Free of chargem.\
+Free of charge.\
 Enjoy.
 
 
