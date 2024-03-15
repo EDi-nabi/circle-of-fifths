@@ -12,5 +12,3 @@ SVGs with separate versions.\
 \
 Free of charge.\
 Enjoy.
-
-
